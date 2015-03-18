@@ -14,7 +14,7 @@ links:
 
 First, install `gulp-csslint-teamcity` as a development dependency:
 
-```shell
+```bash
 npm install --save-dev gulp-csslint-teamcity
 ```
 
@@ -45,6 +45,6 @@ gulp.task('css', function () {
 
 Then make sure teamcity builds the project with the --teamcity argument:
 
-```shell
+```bash
 gulp build --teamcity
 ```

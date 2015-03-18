@@ -7,7 +7,7 @@ links:
   src: https://github.com/ChunkySamurai/csCancellable
 ---
 
-csCancellable [![Build Status](https://travis-ci.org/ChunkySamurai/csCancellable.svg)](https://travis-ci.org/ChunkySamurai/csCancellable)
+csCancellable
 -------------
 
 ###Description

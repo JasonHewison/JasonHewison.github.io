@@ -7,7 +7,7 @@ links:
   src: https://github.com/ChunkySamurai/csCancellable
 ---
 
-#gulp-csslint-teamcity [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
+#gulp-csslint-teamcity
 > A team city reporter for gulp-csslint (Inspired by jshint-teamcity)
 
 ## Usage
@@ -15,7 +15,7 @@ links:
 First, install `gulp-csslint-teamcity` as a development dependency:
 
 ```shell
-npm install --save-dev gulp-csslint
+npm install --save-dev gulp-csslint-teamcity
 ```
 
 Then, add it to your `gulpfile.js`:
@@ -48,8 +48,3 @@ Then make sure teamcity builds the project with the --teamcity argument:
 ```shell
 gulp build --teamcity
 ```
-
-[travis-url]: http://travis-ci.org/ChunkySamurai/gulp-csslint-teamcity
-[travis-image]: https://travis-ci.org/ChunkySamurai/gulp-csslint-teamcity.svg
-[npm-url]: https://npmjs.org/package/gulp-csslint-teamcity
-[npm-image]: https://badge.fury.io/js/gulp-csslint-teamcity.png
